@@ -26,7 +26,9 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/v.png"
+    },
+    "description": "Fan controller project between mobile app and Raspberry PI.",
+    "githubUrl": "https://github.com/Thomas7997/ventico_mobile.git"
   }
 }

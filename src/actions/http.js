@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const ip = 'http://192.168.1.27:5000';
+const ip = 'http://10.3.141.1:5000';
 
 export const sendAC1On = () => async dispatch => {
     try {
